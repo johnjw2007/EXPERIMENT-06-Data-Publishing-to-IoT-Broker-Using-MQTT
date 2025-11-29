@@ -86,9 +86,8 @@ client.disconnect()
 print(f"Message '{message}' published to topic '{topic}'")
 ```
  ## Simulation Screenshots:
-<img width="1526" height="731" alt="image" src="https://github.com/user-attachments/assets/f4ac7f8b-d1e2-4859-b549-7946f7d08954" />
-<img width="1694" height="991" alt="image" src="https://github.com/user-attachments/assets/69e6228b-a89b-4d06-adc7-84d1361a5ddc" />
-<img width="1915" height="950" alt="image" src="https://github.com/user-attachments/assets/9780c766-df65-4ae1-9fc6-5e7ed0c46237" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/431892ee-8f7c-437f-9d52-88be1700b438" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/16a4ce26-81c8-46c4-99b8-0f55485c6668" />
 
  ## Results:
 The data was successfully published to the MQTT broker. The experiment demonstrated how to use the MQTT protocol to transfer data to an IoT broker, enabling remote communication between devices or applications. The message was confirmed to be received by the topic, and this communication can be extended to more complex IoT systems.
